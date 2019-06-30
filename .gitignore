@@ -1,4 +1,7 @@
 # We don't need Powerpoint's locked files
 ~$*
+# We don't want Thumbs.db
 *.db
+*desktop.ini
+# We don't really need to store our archive of exported offline slides.
 Offline Slides/*
